@@ -1,4 +1,7 @@
-![Anki-addon-exporter Logo](/src/anki_exporter_logo.png)
+<p align="center">
+  <img width="300" height="300" src="/src/anki_exporter_logo.png">
+</p>
+
 
 # Anki_Addon_Exporter
 A mini application for those people who are lazy to get their Anki's addon code manually. ]
