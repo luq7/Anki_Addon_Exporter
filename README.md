@@ -1,4 +1,4 @@
-![Anki-addon-exporter Logo](/anki_exporter_logo.png)
+![Anki-addon-exporter Logo](/src/anki_exporter_logo.png)
 
 # Anki_Addon_Exporter
 A mini application for those people who are lazy to get their Anki's addon code manually. ]
