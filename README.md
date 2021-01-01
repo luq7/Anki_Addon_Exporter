@@ -31,7 +31,7 @@ Save lazy people's time
 Clone my `windowExe/dist/ankiExport.exe` and open it. 
 
 <p align="center">
-  <img width=75% height=75% src="/gifs/ankiXporterWin10.gif" alt="Windows 10 Executable Default Demo Gif" title="Win10 Default Demo Gif">
+  <img width=75% height=75% src="/gif/ankiXporterWin10.gif" alt="Windows 10 Executable Default Demo Gif" title="Win10 Default Demo Gif">
 </p>
 
 #### Mac .app runnable
@@ -42,7 +42,7 @@ open ankiExport.app
 to run it.
 
 <p align="center">
-  <img width=75% height=75% src="/gifs/ankiXporterMac.gif" alt="Mac .app Runnable Default Demo Gif" title="Mac Default Demo Gif">
+  <img width=75% height=75% src="/gif/ankiXporterMac.gif" alt="Mac .app Runnable Default Demo Gif" title="Mac Default Demo Gif">
 </p>
 
 
