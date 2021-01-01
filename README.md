@@ -4,12 +4,13 @@
 
 
 # Anki Addon Exporter
-A mini application for those people who are lazy to get their Anki's addon code manually. ]
+
 <p>
 <a href="LICENSE" target="_blank" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-orange.svg"></a>
 <a href="https://www.python.org/downloads/" target="_blank" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.8-green.svg"></a>
 <a href="https://apps.ankiweb.net/" target="_blank" title="Anki version"><img src="https://img.shields.io/badge/Software-Anki%202.1-blue"></a>
 </p>
+A mini application for those people who are lazy to get their Anki's addon code manually. 
 
 ## Problem
 
