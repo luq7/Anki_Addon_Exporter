@@ -61,7 +61,7 @@ to run it.
 #### Linux runnable
 Clone my `/linuxRunnable/dist/ankiExport/`, and change to the directory where you cloned the file by using terminal and then use the command 
 ```
-./ankiExport
+./ankiExport/ankiExport
 ```
 to run it
 
