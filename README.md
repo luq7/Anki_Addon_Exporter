@@ -31,16 +31,30 @@ Save lazy people's time
 Clone my `windowExe/dist/ankiExport.exe` and open it. 
 
 <p align="center">
-  <img width=75% height=75% src="/gifs/ankiXporterWin10.gif" alt="Windows 10 Executable Default Demo Gif" title="Win10 Default Demo Gif">
+  <img width=75% height=75% src="/gif/ankiXporterWin10.gif" alt="Windows 10 Executable Default Demo Gif" title="Win10 Default Demo Gif">
 </p>
 
+#### Mac .app runnable
+Clone my `/macApp/dist/ankiExport.app` (the whole `ankiExport.app` thing), and change to the directory where you cloned the file by using terminal and then use the command 
+```
+open ankiExport.app
+```
+to run it.
+
+<p align="center">
+  <img width=75% height=75% src="/gif/ankiXporterMac.gif" alt="Mac .app Runnable Default Demo Gif" title="Mac Default Demo Gif">
+</p>
+
+
 If you have Anki2.0 please use __Browse__ button to look for the addon's directory. Here is the official Anki for [*File Locations*](https://docs.ankiweb.net/#/files?id=file-locations)
+
+
 
 ## Install
 #### Executable
  * Window executable file:[`ankiExport.exe`](/windowExe/dist/)
- * Linux runnable file:
- * Mac executable file:
+ * Linux runnable file: [`ankiExport.app`](/macApp/dist/)
+ * Mac runnable file:
 
 #### Manual
  * Download the `scr`, and run the source code (If your system is not supported.)
