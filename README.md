@@ -17,14 +17,16 @@ A mini application for those people who are lazy to get their Anki's addon code 
 ***
 ## Problem
 
-If you have ever experienced an error in Anki and the only solution is reinstallation, then all your beloved addons would most likely disappear. It is painful to go through the addon page to get those addon codes. Even worse when you have to rely on your memory which addon you used previously.
+If you have ever experienced an error in Anki and the only solution is reinstallation, then all your beloved add-ons would most likely disappear. It is painful to go through the add-on page to get those add-on codes. Even worse when you have to rely on your memory which add-ons you used previously.
 
 ## Solution
-An application that would extract all your addon's code (numbers), so you could have them added once you have Anki reinstalled. 
+An application that would extract all your add-on's code (numbers), so you could have them added once you have Anki reinstalled. 
+
+(PS: If you don't have any add-ons yet, you will get a: `No such path` message.)
 ***
 
 ## Objective 
-Save lazy people's time
+Save lazy people's time.
 
 
 
@@ -72,7 +74,7 @@ to run it
 </p>
 
 
-If you have Anki2.0 please use __Browse__ button to look for the addon's directory. Here is the official Anki for [*File Locations*](https://docs.ankiweb.net/#/files?id=file-locations)
+If you have Anki2.0, please use the __Browse__ button to look for the add-on's directory. Here is the official Anki for [*File Locations*](https://docs.ankiweb.net/#/files?id=file-locations)
 
 
 ## Feedback 
