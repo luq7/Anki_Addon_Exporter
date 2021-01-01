@@ -12,6 +12,8 @@
 <a title="Supported OS"><img src="https://img.shields.io/badge/Supports-Win%2FMac%2FLinux-green"></a>
 </p>
 A mini application for those people who are lazy to get their Anki's addon code manually. 
+
+
 ***
 ## Problem
 
