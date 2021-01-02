@@ -70,7 +70,8 @@ class MyApp(QtWidgets.QMainWindow, anki_addon_exporter.Ui_Dialog):
         """
         super(MyApp, self).__init__(parent)
         self.setupUi(self)
-        self.setWindowIcon(QtGui.QIcon("anki_exporter_logo.png")) # Set icon for main scene
+        self.scriptDir = os.path.dirname(os.path.realpath(__file__))
+        self.setWindowIcon(QtGui.QIcon(self.scriptDir+ os.path.sep + "anki_exporter_logo.png"))# Set icon for main scene
         
         # Varaible declaration
         self.directory=None
@@ -79,7 +80,7 @@ class MyApp(QtWidgets.QMainWindow, anki_addon_exporter.Ui_Dialog):
 
         # Creating a messagebox
         self.msgBox=QtWidgets.QMessageBox()
-        self.msgBox.setWindowIcon(QtGui.QIcon("anki_exporter_logo.png")) #Set icon for msgbox
+        self.msgBox.setWindowIcon(QtGui.QIcon(self.scriptDir+ os.path.sep + "anki_exporter_logo.png")) #Set icon for msgbox
         # Set a clipboard
         self.clipboard = QtWidgets.QApplication.clipboard()
 
