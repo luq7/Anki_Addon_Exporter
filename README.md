@@ -33,8 +33,8 @@ Save lazy people's time.
 ## Install
 #### Executable
  * Window executable file:[`ankiExport.exe`](/windowExe/dist/)
- * Linux runnable file: [`ankiExport.app`](/macApp/dist/)
- * Mac runnable file: [`ankiExport`](/linuxRunnable/dist/ankiExport/)
+ * Mac runnable file: [`ankiExport.app`](/macApp/dist/)
+ * Linux runnable file: [`ankiExport`](/linuxRunnable/dist/ankiExport/)
 
 #### Manual
  * Download the `scr`, and run the source code (If your system is not supported.)
